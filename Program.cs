@@ -38,7 +38,7 @@ namespace Fundamental_Exams
                         toUpper = true;
                     }
 
-                    for (int i = startindex + 1; i < endIndex; i++)
+                    for (int i = startindex; i < endIndex; i++)
                     {
                         char curr = key[i];
                         string newchar = key[i].ToString();
