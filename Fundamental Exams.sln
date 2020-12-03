@@ -9,13 +9,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.EmojiDetector", "..\02.E
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.Pirates", "..\03.Pirates\03.Pirates.csproj", "{002B6FA7-3CA6-4C69-A08D-5FF68DC8B1EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.Password Reset", "..\01.Password Reset\01.Password Reset.csproj", "{2CC4DBA8-0A75-4AC0-B9D7-9DC710989909}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.Password Reset", "..\01.Password Reset\01.Password Reset.csproj", "{2CC4DBA8-0A75-4AC0-B9D7-9DC710989909}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.SecretChat", "..\01.SecretChat\01.SecretChat.csproj", "{BA7DAAF4-BE29-4D56-973C-B254F1389C94}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.SecretChat", "..\01.SecretChat\01.SecretChat.csproj", "{BA7DAAF4-BE29-4D56-973C-B254F1389C94}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.MirrorWords", "..\02.MirrorWords\02.MirrorWords.csproj", "{77EEA4EE-A6A3-47D3-9AD3-BCC955FE1FDA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02.MirrorWords", "..\02.MirrorWords\02.MirrorWords.csproj", "{77EEA4EE-A6A3-47D3-9AD3-BCC955FE1FDA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.NeedForSpeedIII", "..\03.NeedForSpeedIII\03.NeedForSpeedIII.csproj", "{9D8A3FCF-58C2-4F74-ADF2-EC28E9F20FF2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.NeedForSpeedIII", "..\03.NeedForSpeedIII\03.NeedForSpeedIII.csproj", "{9D8A3FCF-58C2-4F74-ADF2-EC28E9F20FF2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.World Tour", "..\01.World Tour\01.World Tour.csproj", "{0FF822F3-3296-43F2-976B-29EBB79672D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.DestinationMapper", "..\02.DestinationMapper\02.DestinationMapper.csproj", "{4A11047D-A3DA-4CCD-9151-F5BE2940E11C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03.PlantDiscovery", "..\03.PlantDiscovery\03.PlantDiscovery.csproj", "{D2B650F1-E5E9-466C-A324-A1BD56F02673}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +57,18 @@ Global
 		{9D8A3FCF-58C2-4F74-ADF2-EC28E9F20FF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9D8A3FCF-58C2-4F74-ADF2-EC28E9F20FF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9D8A3FCF-58C2-4F74-ADF2-EC28E9F20FF2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FF822F3-3296-43F2-976B-29EBB79672D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FF822F3-3296-43F2-976B-29EBB79672D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FF822F3-3296-43F2-976B-29EBB79672D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FF822F3-3296-43F2-976B-29EBB79672D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A11047D-A3DA-4CCD-9151-F5BE2940E11C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A11047D-A3DA-4CCD-9151-F5BE2940E11C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A11047D-A3DA-4CCD-9151-F5BE2940E11C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A11047D-A3DA-4CCD-9151-F5BE2940E11C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D2B650F1-E5E9-466C-A324-A1BD56F02673}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D2B650F1-E5E9-466C-A324-A1BD56F02673}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D2B650F1-E5E9-466C-A324-A1BD56F02673}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D2B650F1-E5E9-466C-A324-A1BD56F02673}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
