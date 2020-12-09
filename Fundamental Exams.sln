@@ -29,6 +29,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "03.HeroesOfCodeAndLogicVII"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01.TheImitationGame", "..\01.TheImitationGame\01.TheImitationGame.csproj", "{AC244536-F111-4D32-964F-E55BAD078656}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02.AdAstra", "..\02.AdAstra\02.AdAstra.csproj", "{96BEF7B9-0BAE-41B9-9F29-BBF185961B12}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{AC244536-F111-4D32-964F-E55BAD078656}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC244536-F111-4D32-964F-E55BAD078656}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC244536-F111-4D32-964F-E55BAD078656}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96BEF7B9-0BAE-41B9-9F29-BBF185961B12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96BEF7B9-0BAE-41B9-9F29-BBF185961B12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96BEF7B9-0BAE-41B9-9F29-BBF185961B12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96BEF7B9-0BAE-41B9-9F29-BBF185961B12}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
